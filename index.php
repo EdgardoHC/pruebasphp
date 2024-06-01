@@ -9,8 +9,10 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Project/PHP/PHPProject.php to edi
         <title></title>
     </head>
     <body>
+        <h1>DAS - Demostración con Azure App Services</h1>
         <?php
         echo "Hola mundo";
+        
         ?>
     </body>
 </html>
